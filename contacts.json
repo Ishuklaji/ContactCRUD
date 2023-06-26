@@ -1,1 +1,26 @@
-[{"id":"1","name":"John Doe","phone":"123-456-7891","email":"john.doe@example.com"},{"id":"3","name":"Michael Johnson","phone":"555-123-4567","email":"michael.johnson@example.com"},{"id":"68e5f89b-5563-4880-b599-0641b38765db","name":"goku","phone":"9874563210","email":"goku@gmail.com"},{"id":"ed821c26-1d5f-4436-96c5-bb88f370c707","name":"vegeta","phone":"9874563211","email":"vegeta@gmail.com"}]
+[
+    {
+        "id": "1",
+        "name": "John Doe",
+        "phone": "123-456-7891",
+        "email": "john.doe@example.com"
+    },
+    {
+        "id": "3",
+        "name": "Michael Johnson",
+        "phone": "555-123-4567",
+        "email": "michael.johnson@example.com"
+    },
+    {
+        "id": "68e5f89b-5563-4880-b599-0641b38765db",
+        "name": "goku",
+        "phone": "9874563210",
+        "email": "goku@gmail.com"
+    },
+    {
+        "id": "ed821c26-1d5f-4436-96c5-bb88f370c707",
+        "name": "vegeta",
+        "phone": "9874563211",
+        "email": "vegeta@gmail.com"
+    }
+]
