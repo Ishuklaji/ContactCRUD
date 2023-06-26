@@ -1,0 +1,79 @@
+/* src/App.css */
+.App {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+form {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+input[type="text"],
+input[type="email"],
+button {
+  padding: 8px;
+  font-size: 16px;
+}
+
+input[type="text"],
+input[type="email"] {
+  flex: 1;
+}
+
+button {
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.filter {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+input[type="text"] {
+  flex: 1;
+}
+
+select {
+  padding: 5px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+li:last-child {
+  margin-bottom: 0;
+}
+
+li div {
+  margin-bottom: 5px;
+}
+
+button {
+  background-color: #f44336;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #d32f2f;
+}
